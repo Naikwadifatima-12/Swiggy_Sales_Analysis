@@ -4,7 +4,7 @@
 To analyze Swiggy sales data to uncover revenue trends, customer preferences, and performance across cities, states, and food categories. So that, business stakeholders can make data-driven decisions to boost sales and improve customer satisfaction.
 
 ## Dataset used
-- <a href="#">Dataset</a>
+- <a href="https://github.com/Naikwadifatima-12/Swiggy_Sales_Analysis/blob/main/swiggy_data.xlsx">Dataset</a>
 
 ## Libraries Used
 ```python
