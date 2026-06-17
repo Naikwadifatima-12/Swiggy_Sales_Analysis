@@ -27,7 +27,6 @@ import plotly.express as px
 - Which states contribute the most to total sales?
 - What is the Quarterly Performance Summary (Sales, Rating, Orders)?
 - Which are the Top 5 Cities by Sales?
-- Dashboard Interaction <a href="https://github.com/Naikwadifatima-12/Swiggy_Sales_Analysis/blob/main/Swiggy_project.ipynb">View Notebook</a>
 
 ## Process
 - Loaded the dataset from Excel and performed initial exploration using `df.head()`, `df.info()`, and `df.describe()`.
@@ -38,7 +37,7 @@ import plotly.express as px
 - Created charts using Matplotlib, Seaborn, and Plotly to answer each business question.
 
 ## Dashboard
-![Swiggy Analysis Dashboard](#)
+<a href="https://github.com/Naikwadifatima-12/Swiggy_Sales_Analysis/blob/main/Swiggy_project.ipynb">View Notebook</a>
 
 ## Project Insight
 - **Monthly trend** reveals peak revenue months, helping plan promotional campaigns around high-demand periods.
